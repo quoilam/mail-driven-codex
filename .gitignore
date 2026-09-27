@@ -1,0 +1,9 @@
+# Local credentials and runtime state
+.local/
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
